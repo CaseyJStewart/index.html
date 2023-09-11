@@ -39,7 +39,7 @@
     </section>
 
     <footer>
-        <p>&copy; 2023 Your Name</p>
+        <p>&copy; 2023 Casey Stewart</p>
     </footer>
 </body>
 </html>
